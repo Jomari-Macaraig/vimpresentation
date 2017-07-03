@@ -1,0 +1,4 @@
+Normal mode is Vim’s natural resting state.
+
+For those unused to Vim, Normal mode can seem like an odd default. But experienced Vim users have
+difficulty imagining it any other way. This tip uses an analogy to illustrate the Vim way.
